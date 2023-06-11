@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@apimatic/core": "^0.6.2",
-    "@apimatic/schema": "^0.6.0"
+    "@apimatic/schema": "^0.7.0"
   },
   "bugs": {
     "email": "support@apimatic.io"
