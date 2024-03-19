@@ -35,7 +35,7 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "@apimatic/core": "^0.6.2",
+    "@apimatic/core": "^0.10.5",
     "@apimatic/schema": "^0.7.0"
   },
   "bugs": {
